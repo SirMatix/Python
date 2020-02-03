@@ -1,0 +1,5 @@
+Welcome to DiceWare passphrase generator!
+A passphrase is a bunch of words and characters that you type in to your computer to let it know for sure that the person typing is you. Most security programs allow you to enter a passphrase instead of just a short password for added protection against attackers. Some programs also use your passphrase to form a cryptographic key to encrypt your data.
+Diceware is a method for picking passphrases that uses ordinary dice to select words at random from a special list called the Diceware Word List. Each word in the list is preceded by a five-digit number. All the digits are between one and six, allowing you to use the outcomes of five dice rolls to select a word from the list.
+This application is an implementation of that idea using random numbers generator. Just pick up the number of words in passphrase and hit generate. To copy passphrase to clipboard click copy button.
+Click "Ok!" to proceed! Have fun!

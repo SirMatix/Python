@@ -1,0 +1,16 @@
+INSERT INTO Route VALUES
+('', 'CWL', 'LTN'),
+('', 'BHX', 'EDI'),
+('', 'BHX', 'EXT'),
+('', 'SOU', 'LGW'),
+('', 'LTN', 'SOU'),
+('', 'LTN', 'MAN'),
+('', 'STN', 'BOH'),
+('', 'SOU', 'BHX'),
+('', 'MAN', 'BFS'),
+('', 'GLA', 'ABZ'),
+('', 'BOH', 'MAN'),
+('', 'MAN', 'MAN'),
+('', 'EXT', 'LBA'),
+('', 'LPL', 'STN'),
+('', 'BHX', 'SOU');

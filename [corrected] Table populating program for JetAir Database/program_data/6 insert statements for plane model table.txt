@@ -1,0 +1,6 @@
+INSERT INTO Plane_model VALUES
+('','Passanger','A318','132','Airbus'),
+('','Passanger','A319','160','Airbus'),
+('','Passanger','737-300','188','Boeing'),
+('','Light','205','6','Cessna'),
+('','Light','206','6','Cessna');
